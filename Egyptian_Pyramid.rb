@@ -1,4 +1,3 @@
-```ruby
 pyramid.rb 5
 height = ARGV[0]
   output = ""
@@ -9,4 +8,3 @@ height = ARGV[0]
   end
 
 puts output
-```
